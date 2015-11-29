@@ -1,0 +1,448 @@
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-2 org.zheng.cal.task.StackParserTask - finish parse file :[Java_Thread_Stack\1\Thread-0.txt]
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-2 org.zheng.cal.task.StackParserTask - start parse file :[Java_Thread_Stack\1\Thread-1.txt]
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  50
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  38
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-4 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList size:  38
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask -  process task MethodStackList belong to thread:  Thread-0 at time:Mon No
+ERROR pool-1-thread-4 org.zheng.cal.task.AbstractInTask -  got exception as below stack:
+java.lang.RuntimeException: ---------- test exception --------
+	at org.zheng.cal.task.ProcessTask.process(ProcessTask.java:27)
+	at org.zheng.cal.task.AbstractInTask.run(AbstractInTask.java:49)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+ERROR pool-1-thread-4 org.zheng.cal.task.AbstractInTask - current thread stopped by got exception and exit ---------- test exception --------
+DEBUG Thread-0 org.zheng.cal.task.MasterTask -  got reported exception from org.zheng.cal.task.ProcessTask@5220c1b
+DEBUG Thread-0 org.zheng.cal.task.MasterTask -  got reported exception , stop all taskjava.lang.RuntimeException: ---------- test exception --------
+DEBUG Thread-0 org.zheng.cal.task.MasterTask - --------------------------------------------CheckQueueGroupStatus---------------------------------------------
+DEBUG Thread-0 org.zheng.cal.task.MasterTask -  stackParserIncomingQueue size:7 ,Detial :[org.zheng.cal.msg.StackParserTaskMessage@52c4d93, org.zheng.cal.msg.StackParserTaskMessage@1f98f08c, org.zheng.cal.msg.StackParserTaskMessage@71d88788, org.zheng.cal.msg.StackParserTaskMessage@3eaa2c1c, org.zheng.cal.msg.StackParserTaskMessage@16360268, org.zheng.cal.msg.StackParserTaskMessage@33d8053c, org.zheng.cal.msg.ENDTaskMessage@2b3fc0bb]
+DEBUG Thread-0 org.zheng.cal.task.MasterTask -  stackParserOutgoingQueue size:100 ,Detial :[org.zheng.cal.msg.ProcessTaskMessage@1cc05d95, org.zheng.cal.msg.ProcessTaskMessage@1cc05d95, org.zheng.cal.msg.ProcessTaskMessage@1cc05d95, org.zheng.cal.msg.ProcessTaskMessage@1cc05d95, org.zheng.cal.msg.ProcessTaskMessage@1cc05d95, org.zheng.cal.msg.ProcessTaskMessage@1cc05d95, org.zheng.cal.msg.ProcessTaskMessage@193feff2, org.zheng.cal.msg.ProcessTaskMessage@34a205d1, org.zheng.cal.msg.ProcessTaskMessage@34a205d1, org.zheng.cal.msg.ProcessTaskMessage@34a205d1, org.zheng.cal.msg.ProcessTaskMessage@34a205d1, org.zheng.cal.msg.ProcessTaskMessage@34a205d1, org.zheng.cal.msg.ProcessTaskMessage@34a205d1, org.zheng.cal.msg.ProcessTaskMessage@34a205d1, org.zheng.cal.msg.ProcessTaskMessage@34a205d1, org.zheng.cal.msg.ProcessTaskMessage@34a205d1, org.zheng.cal.msg.ProcessTaskMessage@34a205d1, org.zheng.cal.msg.ProcessTaskMessage@34a205d1, org.zheng.cal.msg.ProcessTaskMessage@34a205d1, org.zheng.cal.msg.ProcessTaskMessage@34a205d1, org.zheng.cal.msg.ProcessTaskMessage@34a205d1, org.zheng.cal.msg.ProcessTaskMessage@34a205d1, org.zheng.cal.msg.ProcessTaskMessage@34a205d1, org.zheng.cal.msg.ProcessTaskMessage@792bf755, org.zheng.cal.msg.ProcessTaskMessage@792bf755, org.zheng.cal.msg.ProcessTaskMessage@792bf755, org.zheng.cal.msg.ProcessTaskMessage@792bf755, org.zheng.cal.msg.ProcessTaskMessage@792bf755, org.zheng.cal.msg.ProcessTaskMessage@792bf755, org.zheng.cal.msg.ProcessTaskMessage@792bf755, org.zheng.cal.msg.ProcessTaskMessage@792bf755, org.zheng.cal.msg.ProcessTaskMessage@792bf755, org.zheng.cal.msg.ProcessTaskMessage@357b2b99, org.zheng.cal.msg.ProcessTaskMessage@357b2b99, org.zheng.cal.msg.ProcessTaskMessage@357b2b99, org.zheng.cal.msg.ProcessTaskMessage@357b2b99, org.zheng.cal.msg.ProcessTaskMessage@357b2b99, org.zheng.cal.msg.ProcessTaskMessage@357b2b99, org.zheng.cal.msg.ProcessTaskMessage@357b2b99, org.zheng.cal.msg.ProcessTaskMessage@792bf755, org.zheng.cal.msg.ProcessTaskMessage@792bf755, org.zheng.cal.msg.ProcessTaskMessage@357b2b99, org.zheng.cal.msg.ProcessTaskMessage@792bf755, org.zheng.cal.msg.ProcessTaskMessage@357b2b99, org.zheng.cal.msg.ProcessTaskMessage@792bf755, org.zheng.cal.msg.ProcessTaskMessage@357b2b99, org.zheng.cal.msg.ProcessTaskMessage@792bf755, org.zheng.cal.msg.ProcessTaskMessage@357b2b99, org.zheng.cal.msg.ProcessTaskMessage@792bf755, org.zheng.cal.msg.ProcessTaskMessage@357b2b99, org.zheng.cal.msg.ProcessTaskMessage@792bf755, org.zheng.cal.msg.ProcessTaskMessage@357b2b99, org.zheng.cal.msg.ProcessTaskMessage@792bf755, org.zheng.cal.msg.ProcessTaskMessage@357b2b99, org.zheng.cal.msg.ProcessTaskMessage@792bf755, org.zheng.cal.msg.ProcessTaskMessage@296b653d, org.zheng.cal.msg.ProcessTaskMessage@296b653d, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@497adfb4, org.zheng.cal.msg.ProcessTaskMessage@497adfb4, org.zheng.cal.msg.ProcessTaskMessage@497adfb4, org.zheng.cal.msg.ProcessTaskMessage@497adfb4, org.zheng.cal.msg.ProcessTaskMessage@497adfb4, org.zheng.cal.msg.ProcessTaskMessage@497adfb4, org.zheng.cal.msg.ProcessTaskMessage@497adfb4, org.zheng.cal.msg.ProcessTaskMessage@497adfb4, org.zheng.cal.msg.ProcessTaskMessage@497adfb4, org.zheng.cal.msg.ProcessTaskMessage@497adfb4, org.zheng.cal.msg.ProcessTaskMessage@497adfb4, org.zheng.cal.msg.ProcessTaskMessage@497adfb4, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@49c39d09, org.zheng.cal.msg.ProcessTaskMessage@21f4c81c, org.zheng.cal.msg.ProcessTaskMessage@21f4c81c, org.zheng.cal.msg.ProcessTaskMessage@21f4c81c, org.zheng.cal.msg.ProcessTaskMessage@21f4c81c, org.zheng.cal.msg.ProcessTaskMessage@21f4c81c, org.zheng.cal.msg.ProcessTaskMessage@21f4c81c, org.zheng.cal.msg.ProcessTaskMessage@21f4c81c, org.zheng.cal.msg.ProcessTaskMessage@21f4c81c, org.zheng.cal.msg.ProcessTaskMessage@21f4c81c, org.zheng.cal.msg.ProcessTaskMessage@21f4c81c, org.zheng.cal.msg.ProcessTaskMessage@21f4c81c, org.zheng.cal.msg.ProcessTaskMessage@49c39d09]
+DEBUG Thread-0 org.zheng.cal.task.MasterTask -  masterQueue size:0 ,Detial :[]
+DEBUG Thread-0 org.zheng.cal.task.MasterTask - try to set org.zheng.cal.task.StackParserTask@6ca79a6a is stop flag = true
+DEBUG Thread-0 org.zheng.cal.task.MasterTask - try to set org.zheng.cal.task.StackParserTask@60f379ef is stop flag = true
+DEBUG Thread-0 org.zheng.cal.task.MasterTask - try to set org.zheng.cal.task.ProcessTask@44443799 is stop flag = true
+DEBUG Thread-0 org.zheng.cal.task.MasterTask - try to set org.zheng.cal.task.ProcessTask@5220c1b is stop flag = true
+WARN pool-1-thread-1 org.zheng.cal.task.AbstractInTask - current thread stopped by master ( other task report exception) 
+DEBUG pool-1-thread-3 org.zheng.cal.task.StackParserTask - 
+
+ERROR pool-1-thread-3 org.zheng.cal.task.AbstractInTask -  got exception as below stack:
+java.lang.RuntimeException: ---------- test exception --------
+	at org.zheng.cal.task.ProcessTask.process(ProcessTask.java:27)
+	at org.zheng.cal.task.AbstractInTask.run(AbstractInTask.java:49)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+ERROR pool-1-thread-3 org.zheng.cal.task.AbstractInTask - current thread stopped by got exception and exit ---------- test exception --------
+WARN pool-1-thread-2 org.zheng.cal.task.AbstractInTask - current thread stopped by master ( other task report exception) 
